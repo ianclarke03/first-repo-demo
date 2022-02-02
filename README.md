@@ -3,9 +3,7 @@ using namespace std;
 
 int main()
 {
-  cout << "cat";
-  cout << "dog";
-  cout << "mouse";
-  
+  cout << "Bob" << "Greg" << "Joe" << endl;
+
   return 0;
 }
